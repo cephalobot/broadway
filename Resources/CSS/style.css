@@ -25,3 +25,10 @@ h3 {
   color: white;
   background-image: url(../the-flatiron-building.png)
 }
+
+.footer {
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+}
